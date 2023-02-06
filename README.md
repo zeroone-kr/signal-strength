@@ -3,7 +3,7 @@
 
 ## prerequisite
 ```
-pip install --pre scapy
+pip install scapy
 ```
 
 
