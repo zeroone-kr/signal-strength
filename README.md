@@ -1,5 +1,5 @@
 ## signal-strength
-target address값을 기준으로 mac 주소값을 사용해 신호세기를 출력해준다.
+모니터링 interface 이름과 target mac address 값을 주면 신호세기를 출력해준다.
 
 ## 사용법
 ```
