@@ -9,6 +9,6 @@ pip install --pre scapy
 
 ## 사용법
 ```
-syntax : signal-strength <interface> <ta_mac_addr>
-sample : signal-strength mon0 00:11:22:33:44:55
+syntax : signal-strength.py <interface> <ta_mac_addr>
+sample : signal-strength.py mon0 00:11:22:33:44:55
 ```
